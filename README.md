@@ -1,7 +1,7 @@
 # SmallStreet Markets 
 ### South Africa's C2C E-Commerce Platform
 
-A full-stack customer-to-customer (C2C) e-commerce web application built for the South African market, enabling individuals to buy and sell products online. Built as a first independent project using PHP, MySQL, and vanilla HTML/CSS/JS.
+A full-stack customer-to-customer (C2C) e-commerce web application built for the South African market, enabling individuals to buy and sell products online. Built as a first independent project using PHP, MySQL and  HTML/CSS/JS.
 
 🔗 **Live Demo:** [c2c-project.lovestoblog.com/c2c-ecommerce](https://c2c-project.lovestoblog.com/c2c-ecommerce)
 
